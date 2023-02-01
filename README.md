@@ -1,1 +1,1 @@
-https://storied-custard-7885f7.netlify.app
+https://who-wants-to-be-millionaire-quiz-app.netlify.app
