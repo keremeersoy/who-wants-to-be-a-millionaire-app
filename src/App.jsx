@@ -1,5 +1,5 @@
 import Quiz from "./components/quiz";
-import "./app.css";
+import "./App.css";
 import { useEffect, useMemo, useState } from "react";
 import Timer from "./components/timer";
 import Start from "./components/start";
